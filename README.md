@@ -1,1 +1,1 @@
-# react-template
+# test-cookicutter
